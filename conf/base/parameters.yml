@@ -1,0 +1,4 @@
+demo: ${global}
+
+demo_nested:
+  param: ${global}
